@@ -42,4 +42,4 @@ BeerPHP is about creating social spaces to strengthen software communities. Ther
 
 Cheers & beers :beers:,
 
-BeerPHP
+BeerPHP.
