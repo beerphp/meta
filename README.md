@@ -31,7 +31,7 @@ A great way is to open an issue, or browse through some of the repos from other 
 
 ## Code of conduct
 
-All events, activities, and internet spaces which bear the BeerPHP name are subject to the [Citizen Code of Conduct](http://citizencodeofconduct.org/).
+All events, activities, and internet spaces which bear the BeerPHP name are subject to the [Conf Code of Conduct](http://confcodeofconduct.com/).
 Simply stated, harassment of any form will not be tolerated and should be reported to your local organizer.
 Please drink responsibly and act in a way that honors the community values of respect and mutual enrichment which we share.
 
