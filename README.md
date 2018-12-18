@@ -1,7 +1,7 @@
 Meta [![Build Status](https://travis-ci.org/beerphp/meta.svg?branch=master)](https://travis-ci.org/beerphp/meta)
 ====
 
-*the repo behind the repos*
+*This is the repo behind the repos.*
 
 Please create a Github issue on this repository for anything related to BeerPHP generally,
 for example, to ask for the creation of a new repo for your local chapter of BeerPHP.
