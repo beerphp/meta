@@ -1,3 +1,5 @@
+sudo: false
+
 language: php
 
 php:
@@ -6,10 +8,12 @@ php:
   - '7.3'
   - nightly
 
-sudo: false
-
 before_install: composer self-update
 
 install: composer install
 
-script: ./vendor/bin/phpunit --coverage-text
+script: ./vendor/bin/phpunit ./tests/
+
+cache:
+  directories:
+    - $HOME/.composer/cache
