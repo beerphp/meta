@@ -29,6 +29,11 @@ Feel free to borrow text and formatting from other BeerPHP repos.
 
 A great way is to open an issue, or browse through some of the repos from other cities to see what they're up to.
 
+## Assets
+
+Feel free to use any stuff from the `/assets` folder of this repo for the benefit of the community. 
+We always publish source files so you can easily change it and specify your city.
+
 ## Code of conduct
 
 All events, activities, and internet spaces which bear the BeerPHP name are subject to the [Conf Code of Conduct](http://confcodeofconduct.com/).
